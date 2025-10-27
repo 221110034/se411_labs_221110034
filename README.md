@@ -3,5 +3,5 @@ This is a repository for my solutions to SE411 labs
 
 # Chapters
 
-## Chaprer 1: Git
+## Chapter 1: Git
 Introduction to git
